@@ -3,7 +3,7 @@ import os
 from termcolor import colored
 
 
-'''Ignore reading file with these extensions'''
+'''Ignore reading files with these extensions'''
 
 ignoreList = ['.mp4','.avi','.mkv','.png','.jpg', '.jpeg', '.pdf','.mp3','.gif','.class', '.pyc']
 
